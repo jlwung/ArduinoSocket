@@ -18,7 +18,6 @@ class Timer
 {
 public:
 	Timer();
-	~Timer();
 	void toString(char *, int);
 	String toRespString();
 	String toPrintString();
