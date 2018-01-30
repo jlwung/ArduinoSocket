@@ -7,10 +7,6 @@ Timer::Timer() {
   inTimer = false;
 }
 
-Timer::~Timer() {
-
-}
-
 void Timer::reset()
 {
 	disable();
